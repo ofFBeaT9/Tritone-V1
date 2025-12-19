@@ -5,6 +5,8 @@
 [![SPICE: ngspice](https://img.shields.io/badge/SPICE-ngspice-green.svg)]()
 [![Status: Research](https://img.shields.io/badge/Status-Research-orange.svg)]()
 
+Author: Mahdad Shakiba, Pharm.D.
+
 **Tritone** is a complete balanced ternary computing platform implemented in standard CMOS technology. It includes a transistor-level cell library, synthesizable RTL, a 4-stage pipelined CPU, assembler toolchain, and comprehensive test suite.
 
 > *"Perhaps the prettiest number system of all is the balanced ternary notation."*
